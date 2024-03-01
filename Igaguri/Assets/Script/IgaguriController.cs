@@ -26,10 +26,12 @@ public class IgaguriController : MonoBehaviour
     {
         if(_destroyFlag == true)
         {
+            /*
             if (_destroyCount?)
             {
 
             }
+            */
         }
     }
 
